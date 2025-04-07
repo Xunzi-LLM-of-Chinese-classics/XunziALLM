@@ -20,7 +20,7 @@
 |Xunzi-Qwen1.5-4B（基座模型）  | [链接](https://www.modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen1.5-4B) |Xunzi-Qwen1.5-4B基座模型|
 |Xunzi-Qwen1.5-7B（基座模型）  | [链接](https://www.modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen1.5-7B) |Xunzi-Qwen1.5-7B基座模型|
 |Xunzi-Qwen1.5-14B（基座模型）  | [链接](https://www.modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen1.5-14B) |Xunzi-Qwen1.5-14B基座模型|
-|Xunzi-Qwen1.5-7B_chat（对话模型）  | [链接](https://www.modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen1.5-7B_chat) |Xunzi-Qwen1.5-7B_chat对话模型|
+|Xunzi-Qwen1.5-7B_chat（对话模型）  | [链接](https://www.modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen1.5-7B_chat) |Xunzi-Qwen1.5-7B_chat对话模型(推荐对话使用)|
 |Xunzi-Qwen2-7B（基座模型）  | [链接](https://www.modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen2-7B) |Xunzi-Qwen2-7B基座模型|
 |Xunzi-Qwen2-1.5B（基座模型）  | [链接](https://www.modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen2-1.5B) |Xunzi-Qwen2-1.5B基座模型|
 
