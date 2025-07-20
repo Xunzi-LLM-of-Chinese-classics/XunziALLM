@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 streamlit run web_demo.py  --server.address=127.0.0.1  --server.port=5000 --server.fileWatcherType none > logxunzi_web_test.log 2>&1 & echo $! > run.pid

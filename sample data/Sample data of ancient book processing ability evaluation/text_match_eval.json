@@ -1,0 +1,252 @@
+[
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:梁山崩 sentence2:梁山崩",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:復父之讎 sentence2:復父之仇",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:使耕者東畝 sentence2:使耕者皆東其畝",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:晉人、宋人、衞人、曹人伐鄭 sentence2:公如齊",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:其稱天王何 sentence2:叔孫婼如晉",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:取邑不日 sentence2:不告月者何也",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:閽(弒6)吳子餘祭 sentence2:大雩",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:吳何以稱子 sentence2:其不曰雉門災及兩觀何也",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:莒人伐我東鄙 sentence2:楚子囊圍陳",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:紀之遺邑也 sentence2:鄣、紀之遺邑也",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:母兄稱兄 sentence2:母兄也",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:王子虎卒 sentence2:逆祀也",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:陳人殺其大夫公子過 sentence2:陳公子招歸罪於公子過而殺之",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:陳侯午卒 sentence2:公如晉",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:內諱奔謂之孫 sentence2:成叛于齊",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:宋人圍曹 sentence2:宋人圍曹",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:狄伐晉 sentence2:楚子圍許以救鄭",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:虞公不從其言 sentence2:公曰",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:楚公子結帥師伐陳 sentence2:楚子期伐陳",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:公子遂會晉趙盾盟于衡雍 sentence2:襄仲會晉趙孟盟于衡雍",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:(晉3)趙(陽4)出奔宋 sentence2:故趙陽奔宋",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:鄭公孫舍之帥師侵宋 sentence2:鄭子展侵宋",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:且以蕭同姪子爲質 sentence2:以蕭同姪子之母爲質",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:(是則土齊也5) sentence2:則是終土齊也",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:邾婁子益何以名 sentence2:益之名、惡也",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:王者無外 sentence2:天子無出",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:莒人伐我東鄙 sentence2:莒人伐我東鄙以疆鄫田",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:滕子來朝 sentence2:滕昭公來朝",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:齊侯唁公于野井 sentence2:遂滅巢及鍾離而還",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:我主之也 sentence2:單伯者何",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:仲孫蔑會晉荀罃、齊崔杼、宋華元、衞孫林父、曹人、邾婁[穀左無婁字下同]人、滕人、薛人、小邾婁人于戚 sentence2:齊崔武子及滕、薛、小邾之大夫皆會",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:盟納季子也 sentence2:請復季友也",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:蓋妻楚王之母也 sentence2:則若此時可矣",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:丹桓宮楹、非禮也 sentence2:丹楹、非禮也",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:宋公王[穀王作(壬2)]臣卒 sentence2:宋成公卒",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:取邑不日 sentence2:取邑不日",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:歸邾婁[穀左無婁字下同]子益(于1)邾婁 sentence2:師遂入邾",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:外災不書 sentence2:會于邢丘",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:杞伯來朝 sentence2:齊殺其大夫國佐",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:葬蔡靈公 sentence2:葬蔡靈公",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:遂奔齊 sentence2:還自晉",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:閏月不告月 sentence2:葬襄公",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:曹伯來朝 sentence2:秦人來歸僖公成風之襚",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:公至自晉 sentence2:楚公(子5)(橐6)師襲舒庸滅之",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:匹馬(隻1)輪無反者 sentence2:匹馬倚輪無反者",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:公之喪至自乾侯 sentence2:定之無正何也",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:莒無大夫 sentence2:遂以諸侯滅賴",
+        "output":  false
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:衞侯之弟黑背率師侵鄭 sentence2:衞子叔黑背侵鄭",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:秦人伐晉 sentence2:秦桓公伐晉",
+        "output":  true
+    },
+    {
+        "instruction": "请判断以下两个句子是否描述同样的历史事件",
+        "input": "sentence1:齊殺其大夫高厚 sentence2:齊崔杼殺高厚於灑藍而兼其室",
+        "output":  true
+    }
+]

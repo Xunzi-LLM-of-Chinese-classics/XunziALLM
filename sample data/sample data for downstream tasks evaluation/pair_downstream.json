@@ -1,0 +1,467 @@
+[
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:乙卯，葬孝安莊皇后。 sentence2:甲申，葬孝貞純皇后。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:成祖數北征,命之監國，裁 决庶政。 sentence2:丁丑，親征阿魯台,皇太子 監國。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:王密與僧道衍謀，令指揮張玉、朱能潜納勇士八百人入府守衞。 　　 sentence2:王爺秘密與和尚道堑計議，命令指 揮張玉、朱能秘密放八百名勇士進王府守衛。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:己卯，封魏忠賢孫鵬翼為安平伯。 sentence2:癸酉，封徐有貞武功伯。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:己酉，河决河南, 没曹、濮、東昌,潰壽張沙灣,壞運 道，工部侍郎王永和治之。 sentence2:己酉，黄河 在河南决口,淹没曹、濮、東昌，在壽張的沙灣 潰决，毁壞了運輸的通道，工部侍郎王永和去治 理它。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:是月，籍長興侯耿炳文家，炳文自殺。 sentence2:這一月，没收長 興侯耿炳文家的財産入官,炳文自殺。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:癸酉，亦思馬因侵犯宣府。 sentence2:六月壬寅，亦思馬因侵犯延綏,汪直、王越調兵 抵禦并打敗了他。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:乙亥，都督楊文爲征虜將軍，代齊讓。 sentence2:乙亥，都督楊文爲征虜將軍，代替齊讓。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:丙寅， 宥武臣殊死以下罪，復其官。 sentence2:十二月辛卯，赦天下殊死以下。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:二十年春正月，免南畿被災稅糧。 sentence2:免南畿被災稅糧。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:是年，朝鮮貢馬者三。 sentence2:是年，琉球、占城、朝鮮、暹羅、烏斯藏、泥八剌入貢。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:甲辰，小王子攻陷寧夏清水營。 sentence2:甲辰，攻陷 昌平。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:十二月辛未，論功封朱永保國公，加汪直歲祿，陞賞者二千六百餘人。 sentence2:十二 月辛未，評定功勞封朱永爲保國公,增加汪宜每 年的俸禄，晋升受賞的二千六百多人。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:通州、遵化、密雲相繼降燕。 sentence2:戊寅，在通州、天津、 宣府、大同招兵。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:冬十月癸卯，殺夏言。 sentence2:冬十月癸卯朔日，有日食。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:丙戌，元朝皇帝在應昌逝世，兒子愛猷識理達臘繼位。 sentence2:夏四月，元嗣君愛猷識理達臘殂，子脱古思帖木兒嗣。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:乙未，免浙江受災税糧。 sentence2:當月，免浙江、河南受災税糧。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:冬十月癸亥，停刑。 sentence2:冬十月癸亥，停止執行刑罰。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:建文中更改成法，一復舊制。 sentence2:建文年間所更改過的以前 既定的法度，一律恢復舊制。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:安南黎灝侵老撾宣慰司，賜敕諭之。 sentence2:秋九月丙午，諭安南黎灝還占城侵地。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:八月丁丑，太僕卿楊最諫服丹藥，予杖死。 sentence2:八月丁丑，京城地震。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:遣儒士告諭父老，勸農桑，尋還應天。 sentence2:派儒士告諭父老，勉勵農耕及蠶桑。不久返回應五。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:丁酉，免天下積年逋賦。 sentence2:丁酉, 免全國多年拖欠的租賦。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:兵部侍郎王在晉為尚書兼右副都御史，經略遼、薊、天津、登、萊軍務。 sentence2:兵部侍郎王在晉爲尚書兼右副都 御史，經營籌劃遼、薊、天津、登、萊軍務。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:秋七月壬子，振蘇、松水災，蠲稅糧。 sentence2:秋七月壬子，賑濟蘇、松水災，蠲免税糧。 ",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:是月，免南畿、四川被災稅糧。 sentence2:這個月，免南畿、四川受 災税糧。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:辛巳，謁顯陵。 sentence2:辛巳，謁拜顯陵。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:丁丑，遣行人訪經明行 修之士。 sentence2:丁丑，派遣行人訪求通 曉經術行爲美好的人。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:庚寅，册妃周氏爲皇后。 sentence2:庚寅，册立妃子周氏 爲皇后。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:貴州總兵官張彦芳爲 平蠻總兵官，跟隨巡撫都御史王三善討伐水西盗 賊。 sentence2:五月丁巳，總兵官都督蕭授討平貴州 烏羅蠻。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:志意廓然，人莫能測。 sentence2:志向遠大，人們都測度不出。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:癸酉，大理寺丞熊廷弼為兵部右侍郎兼右僉都御史，經略遼東。 sentence2:癸酉，大理寺丞態 廷弼爲兵部右侍郎兼右僉都御史，經營籌劃遼東。 ",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:丁卯，詔止諸王兵。 sentence2:丁卯，京城戒嚴。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:秋七月，徐達克常熟。 sentence2:秋季七月，徐達攻克常熟。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:二月乙丑，賑濟廣西饑荒。 sentence2:二十八年春二月乙巳，賑濟陝西饑荒。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:冬十月辛丑初一，日食。 sentence2:冬十月癸亥朔日，有日食。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:癸未，施鳳來、張瑞圖致仕。 sentence2:癸未，施鳳來、張瑞圖退休。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:秋七月丙辰，明昇將吴友仁寇漠中，參政傅友德擊却之。 sentence2:秋季七月丙辰，明昇的將領吴友仁侵犯漢中，參政傅友德擊退了他。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:十二年春正月庚寅，思州苗平。 sentence2:十二年春正月己卯，始合祀天地於南郊。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:己未，工部尚書宋禮開會通河。 sentence2:己未， 工部尚書宋禮開會通河。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:」毛里孩犯延綏，都指揮僉事許寧擊敗之。 sentence2:冬十一月乙未，毛里孩犯延綏。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:十四年春正月丙申朔，帝在太原。 sentence2:十三年春正月辛丑朔，帝在宣府。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:甲午，命所在鎮守總兵、巡撫聽汪直、王越節制。 sentence2:甲午，命 各處鎮守總兵、巡撫聽從汪直、王越指揮管轄。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:丁亥，大祀天地於南郊。 sentence2:丁亥，在南郊大祭天地。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:庚午，再次議論封倭之 事，命都督僉事楊方亨、游擊沈惟敬前往。 sentence2:九月乙未，楊方亨至日本，平秀吉不受封，復侵朝鮮。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:丁巳，免畿内今年田租之半。 sentence2:丁巳，免除京城地區今年田租的一半。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:壬辰，大清兵東歸，永平、遷安、遵化相繼收復。 sentence2:甲申，大清兵進入遵化，巡撫都御史王元雅、推官何天球等因此而死。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:丙辰，明昇派使者前來。 sentence2:癸卯，湯和至重慶，明昇降。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:五月己丑，免南畿受災秋糧。 sentence2:戊戌，免南畿受災秋糧。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:癸未，海寇鄭芝龍降。 sentence2:癸未，海盗鄭芝龍投降。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:二月己亥，巡撫雲南副都御史何孟春討平彌勒州苗。 sentence2:二月乙酉，副都御史劉廣衡錄南京囚。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:戊午，徐達鎮北平。 sentence2:戊午，徐達鎮守北平。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:己丑，還宮。 sentence2:乙丑，還宮。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:十一月乙酉，分遣御史訪求方士、法書。 sentence2:十一月乙 酉，分别派遣御史訪求方士、法書。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:己丑，封俺答為順義王。 sentence2:己丑，封俺答爲順義王。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:十一月丙子，詔度民田。 sentence2:十一月丙子，下詔丈量民田。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:閏月丙辰，友諒陷太平，守將朱文遜，院判花雲、王鼎，知府許瑷死之。 sentence2:三月癸亥，降人祝宗、康泰反，陷洪都，鄧愈走應天，知府葉琛、都事萬思誠死之。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:秋七月，江北發生蝗災江南發大水山西、陝西、河南、山東乾旱黄河在開封决口，蠲租賑濟不等。 sentence2:秋七月，山東、河南發生蝗災，老百姓嚴重 飢餓。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:丁酉，至洗馬林,閲城堡 兵備。 sentence2:丁酉，皇上到達洗馬林,察看城堡與軍事防 禦情况。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:二月己巳，都指 揮使鹿榮討柳州叛蠻,平之。 sentence2:二月己巳，都指揮使鹿榮討伐柳州 叛亂的蠻族，平定了他們。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:三月庚寅，賜李旻等進士及第、出身有差。 sentence2:三月庚寅，賜李旻等進士 及第、進士出身不等。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:太祖擇驍健者五百人入衛，解甲酣寢達旦，衆心始安。 sentence2:太祖選了其中勇猛矯健的五百人入内爲警衛，自己解甲酣睡到天亮，衆人心裏纔安定。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:庚戌，崩於乾清宮，年三十有六。 sentence2:庚戌，在乾清宫駕崩，年齡三十六歲。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:壬寅，李自成圍賀人龍於隴州。 sentence2:壬寅，祀天於南郊。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:賢士吾禮用之，舊政不便者除之，吏毋貪暴殃吾民。”民乃大喜過望。 sentence2:賢能之士我聘用他們，舊政不適宜的就廢除它，官吏不許貪婪暴虐而禍害我的百姓。”老百姓於是大喜過望。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:壬辰，太祖移軍扼左蠡，友諒亦退保渚磯。 sentence2:友諒聞太祖至，解圍，逆戰於鄱陽湖。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:癸巳，諜報阿魯台兵攻萬全,諸將請分兵還擊，帝曰：“詐 也。 sentence2:帝 曰：“此妖人也。令自餌之，毁其方 書。”",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:丙寅，太宗神主 柑太廟。 sentence2:丙寅，奉太宗牌位附祭於太廟。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:七年春正月癸未，考覈天下巡撫官。 sentence2:七年春正月癸未，考核全國巡撫官。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:甲子，復以都察院為御史府。 sentence2:命都察院嚴核巡按御史。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:夏四月己巳，免延安、慶陽、平涼新舊遼餉。 sentence2:這個 月，俺答侵犯延安、慶陽。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:丙申，撫寧侯朱永為平胡將軍，充總兵官，會楊信討毛里孩。 sentence2:丙申，撫寧侯朱永爲平胡將軍,充任總兵官, 會同楊信討伐毛里孩。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:丙子，靖寧侯葉昇坐胡惟庸黨誅。 sentence2:乙未，靖寧侯葉昇練兵甘肅。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:是年哈密、疏球中山、錫蘭山、滿剌加入貢。 sentence2:這年，哈密、琉球中山、錫蘭山、滿剌加 來進貢。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:六年春正月癸卯，曹文詔節制山、陝衆將討 伐盗賊。 sentence2:四年春正月己卯，流動的盗賊攻陷保安。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:六月壬午，京師地震。 sentence2:六月壬午，京城地震。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:乙亥，免湖廣被災秋糧。 sentence2:庚戌，免湖廣被災秋糧。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:丙戌，徵山西、山東、河南、陝西、遼東五都司及西寧、鞏昌、洮、岷各衛兵，期三月會北京及宣府。 sentence2:丙戌，徵召山西、山東、河南、陝西、遼東 五個都司及西寧、鞏昌、洮、岷各衛的軍隊，約 定三月在北京及宣府會合。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:郴州礦賊起。 sentence2:郴州礦賊興起。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:丙寅，徐階致仕。 sentence2:丙寅，徐階辭官。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:十二月庚戌，遣使十四人分振畿輔。 sentence2:十二月庚戌，派 使臣十四人分頭賑濟京城地區。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:戊申，奉安獻皇帝、后神主於玉芝宮。 sentence2:戊申，把獻皇 帝、獻皇后的牌位安放到玉芝宫。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:己亥，史繼偕致仕。 sentence2:己亥, 史繼偕辭官。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:壬子，罷夭下歲造兵器。 sentence2:壬子，廢除全國每年鑄造兵器的規定。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:五月壬戌，京師地震。 sentence2:九月壬戌，京師地震有聲響。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:今蓄儲有餘，其准、揚、安、微、池五府及山西、陝西、河南、福建、江西、浙江、北平、湖廣今年租賦，悉免之。” sentence2:如今國家的儲蓄寬綽有餘，那淮安、揚州、安慶、徽州、池州五府及山西、陝西、河南、附件、江西、浙江、北平、湖廣今年的租賦，全都蠲免。”",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:西寧侯宋琥鎮守 甘肅。 sentence2:乙丑，西寧侯宋瑛總 管監督大同兵馬。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:命自今御史巡行察吏毋得摭拾人言，賢否皆具實蹟以聞。 sentence2:這個月，開始派御史巡行、按察州郡。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:壬子，又敗之於桑乾河。 sentence2:十一月壬子，宣府總兵官馬芳襲俺答於長水海子，又敗之鞍子山。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:己酉，雪。 sentence2:己酉，降雪。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:罷威武團營，遣還各邊軍，革京城內外皇店，放豹房番僧及教坊司樂人。 sentence2:撤 銷威武團營，遣返各邊境的軍隊，革除京城内外 皇店，遣散豹房番僧及教坊司歌舞藝人。",
+        "output": "是"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:高迎祥、李自成分部衆進陝西,其餘盗賊從光化逃往湖廣。 sentence2:五月壬子，下詔 赦免脅從衆賊。",
+        "output": "否"
+    },
+    {
+        "instruction": "请判断下列两个句子是否为同一个含义",
+        "input": "sentence1:御戟門誓師曰：“城下之日，毋殺掠，毋毁廬舍，毋發丘壟。 sentence2:太祖駕臨軍門誓師，説：“城被攻下的日子，不要殺戮搶掠，不要毁壤房屋，不要發掘墳墓。",
+        "output": "是"
+    }
+]
